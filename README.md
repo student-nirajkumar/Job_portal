@@ -76,7 +76,7 @@ Job_portal/
 ├── package.json
 ├── package-lock.json
 └── .gitignore
-
+```
 
 
 
@@ -103,21 +103,26 @@ CLOUD_NAME=your_cloudinary_name
 API_KEY=your_cloudinary_api_key
 API_SECRET=your_cloudinary_api_secret
 FRONTEND_URL=your_frontend_url
+```
 
 ▶️ Run Locally
 # Install dependencies
+```
 npm install
 npm install --prefix frontend
-
+```
 # Build frontend
+```
 npm run build
-
+```
 # Start backend
+```
 npm run dev
-
+```
 Backend runs on:
+```
 http://localhost:8000
-
+```
 📚 What I Learned
 
 Designing RESTful APIs with Express.js
@@ -153,6 +158,7 @@ Computer Science Student | MERN Stack Developer
 ⭐ Acknowledgement
 
 This project was built with a strong focus on concept clarity, backend logic, and real-world development practices, inspired by a detailed MERN stack tutorial.
+
 
 
 
