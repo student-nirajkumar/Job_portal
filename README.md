@@ -4,7 +4,7 @@ A full-stack **Job Portal web application** built using the **MERN stack (MongoD
 This project connects **job seekers (students)** and **recruiters** on a single platform with secure authentication, role-based access, and real-world backend logic.
 
 🌐 **Live Demo:**  
-https://online-job-portal-ptpz.onrender.com
+https://online-applicatio-portal-for-job.onrender.com
 
 ---
 
@@ -171,6 +171,7 @@ Computer Science Student | MERN Stack Developer
 This project was built with a strong focus on concept clarity, backend logic, and real-world development practices, inspired by a detailed MERN stack tutorial.
 
 ```
+
 
 
 
